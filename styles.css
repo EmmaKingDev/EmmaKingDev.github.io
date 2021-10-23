@@ -46,6 +46,7 @@ p {
     width: 450px;
     margin: 0 auto;
     margin-top: 8%;
+    margin-bottom: 4%;
     border-radius: 20px;
     box-shadow:  2px 13px 10px rgba(85, 45, 230, 0.089);
 }
@@ -156,7 +157,6 @@ h3 {
 
 .attribution {
     text-align: center;
-    margin-top: 30px;
     font-size: 11px;
     margin-bottom: 5px;
 }
