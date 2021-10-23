@@ -164,6 +164,7 @@ h3 {
 @media only screen and (max-width: 600px) {
     .card {
         width: 380px;
+        margin-top: 4%;
     }
 
     .image {
